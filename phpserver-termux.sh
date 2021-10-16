@@ -101,7 +101,7 @@ echo -n  "Enter Your Custom Port Number :~ "
 read user_port
 echo "Http Server is Started on Port $user_port"
 
-php -S localhost:8000:$user_port
+php -S localhost:$user_port
 
 
 elif [ $default_or_custom_port = N ]
@@ -114,7 +114,7 @@ echo -n  "Enter Your Custom Port Number :~ "
 read user_port
 echo "Http Server is Started on Port $user_port"
 
-php -S localhost:8000:$user_port
+php -S localhost:$user_port
 
 
 
