@@ -18,6 +18,7 @@ For installation :~~
 ```
 apt install git -y ; git clone https://github.com/WLS-SD/Php-Http-Server ; cd Php-Http-Server ; chmod +x * ; ./setup.sh && exit
 ```
+### Terminal Will Be Closed so open new terminal &
 Now to Start Php Server :~
 ```
 phpserver
@@ -28,7 +29,7 @@ For installation :~~
 ```
 sudo apt install git -y ; git clone https://github.com/WLS-SD/Php-Http-Server ; cd Php-Http-Server ; chmod +x * ; ./setup.sh && exit
 ```
-
+### Terminal Will Be Closed so open new terminal &
 Now to Start Php Server :~
 ```
 phpserver
