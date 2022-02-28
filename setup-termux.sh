@@ -91,6 +91,8 @@ GREEN="\e[92m"
 printf "${GREEN}"
         
 cp -r phpserver-termux.sh $HOME
+cd $HOME
+chmod 777 phpserver-termux.sh
               
 
 LightCyan="\e[96m"
